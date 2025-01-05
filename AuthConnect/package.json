@@ -7,7 +7,12 @@
     "ios": "react-native run-ios",
     "lint": "eslint .",
     "start": "react-native start",
-    "test": "jest"
+    "test": "jest",
+    "ios:run-dev-pro": "react-native run-ios --simulator='iPhone 15 Pro' --port=19001",
+    "ios:run-dev-pro-max": "react-native run-ios --simulator='iPhone 13 Pro Max' --port=19001",
+    "ios:run-dev-se": "react-native run-ios --simulator='iPhone SE (3rd generation)' --port=19002",
+    "ios:run-dev-ipad": "react-native run-ios --simulator='iPad (10th generation)' --port=19003",
+    "ios:run-dev-ipad-mini": "react-native run-ios --simulator='iPad mini (6th generation)' --port=19004"
   },
   "dependencies": {
     "react": "18.3.1",
