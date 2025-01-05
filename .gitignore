@@ -1,0 +1,65 @@
+# General
+.DS_Store
+*.log
+*.tmp
+*.swp
+
+# Node.js Dependencies
+node_modules/
+
+# React Native Specific
+*.jsbundle
+*.hprof
+*.lock
+*.vscode/
+
+# Android
+android/.gradle/
+android/build/
+android/app/build/
+android/.idea/
+*.keystore
+!android/app/debug.keystore
+
+# iOS
+ios/Pods/
+ios/build/
+ios/DerivedData/
+ios/.xcworkspace/
+ios/.idea/
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+*.xccheckout
+*.xcuserstate
+
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots/
+fastlane/test_output/
+
+# Testing
+coverage/
+
+# Metro Bundler
+.metro-cache/
+.rncache/
+
+# Yarn
+.yarn/
+.yarn-error.log
+
+# Expo
+.expo/
+.expo-shared/
+
+# Temporary Files
+*.tmp
+*.swp
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
