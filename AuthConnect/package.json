@@ -15,6 +15,9 @@
     "ios:run-dev-ipad-mini": "react-native run-ios --simulator='iPad mini (6th generation)' --port=19004"
   },
   "dependencies": {
+    "@invertase/react-native-apple-authentication": "^2.4.0",
+    "@react-native-google-signin/google-signin": "^13.1.0",
+    "axios": "^1.7.9",
     "react": "18.3.1",
     "react-native": "0.76.5"
   },

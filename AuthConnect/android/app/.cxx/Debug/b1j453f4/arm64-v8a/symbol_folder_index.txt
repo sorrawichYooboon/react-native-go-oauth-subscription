@@ -1,0 +1,1 @@
+/Users/sorrawichyooboon/SorrawichYooboon/react-native-go-oauth-subscription/AuthConnect/android/app/build/intermediates/cxx/Debug/b1j453f4/obj/arm64-v8a

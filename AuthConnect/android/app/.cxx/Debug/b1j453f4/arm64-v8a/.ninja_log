@@ -1,0 +1,6 @@
+# ninja log v5
+1	218	0	/Users/sorrawichyooboon/SorrawichYooboon/react-native-go-oauth-subscription/AuthConnect/android/app/.cxx/Debug/b1j453f4/arm64-v8a/CMakeFiles/cmake.verify_globs	72800f7af25f21fb
+21	15459	1736059072975831677	RNGoogleSignInCGen_autolinked_build/CMakeFiles/react_codegen_RNGoogleSignInCGen.dir/react/renderer/components/RNGoogleSignInCGen/States.cpp.o	162e576f76ec7617
+10	15954	1736059073563711388	RNGoogleSignInCGen_autolinked_build/CMakeFiles/react_codegen_RNGoogleSignInCGen.dir/react/renderer/components/RNGoogleSignInCGen/EventEmitters.cpp.o	49fef7a5370fae3f
+16	16142	1736059073769653776	RNGoogleSignInCGen_autolinked_build/CMakeFiles/react_codegen_RNGoogleSignInCGen.dir/react/renderer/components/RNGoogleSignInCGen/RNGoogleSignInCGenJSI-generated.cpp.o	c51043c69a5d2434
+2	16167	1736059073784477965	RNGoogleSignInCGen_autolinked_build/CMakeFiles/react_codegen_RNGoogleSignInCGen.dir/RNGoogleSignInCGen-generated.cpp.o	d03071acea0dd346

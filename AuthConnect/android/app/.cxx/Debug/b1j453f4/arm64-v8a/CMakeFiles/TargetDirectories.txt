@@ -1,0 +1,6 @@
+/Users/sorrawichyooboon/SorrawichYooboon/react-native-go-oauth-subscription/AuthConnect/android/app/.cxx/Debug/b1j453f4/arm64-v8a/CMakeFiles/appmodules.dir
+/Users/sorrawichyooboon/SorrawichYooboon/react-native-go-oauth-subscription/AuthConnect/android/app/.cxx/Debug/b1j453f4/arm64-v8a/CMakeFiles/edit_cache.dir
+/Users/sorrawichyooboon/SorrawichYooboon/react-native-go-oauth-subscription/AuthConnect/android/app/.cxx/Debug/b1j453f4/arm64-v8a/CMakeFiles/rebuild_cache.dir
+/Users/sorrawichyooboon/SorrawichYooboon/react-native-go-oauth-subscription/AuthConnect/android/app/.cxx/Debug/b1j453f4/arm64-v8a/RNGoogleSignInCGen_autolinked_build/CMakeFiles/react_codegen_RNGoogleSignInCGen.dir
+/Users/sorrawichyooboon/SorrawichYooboon/react-native-go-oauth-subscription/AuthConnect/android/app/.cxx/Debug/b1j453f4/arm64-v8a/RNGoogleSignInCGen_autolinked_build/CMakeFiles/edit_cache.dir
+/Users/sorrawichyooboon/SorrawichYooboon/react-native-go-oauth-subscription/AuthConnect/android/app/.cxx/Debug/b1j453f4/arm64-v8a/RNGoogleSignInCGen_autolinked_build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,6 @@
+module Pods_AuthConnect {
+  umbrella header "Pods-AuthConnect-umbrella.h"
+
+  export *
+  module * { export * }
+}

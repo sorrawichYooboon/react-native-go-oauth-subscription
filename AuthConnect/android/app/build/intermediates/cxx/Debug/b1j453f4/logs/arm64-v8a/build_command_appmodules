@@ -1,0 +1,4 @@
+/Users/sorrawichyooboon/Library/Android/sdk/cmake/3.22.1/bin/ninja \
+  -C \
+  /Users/sorrawichyooboon/SorrawichYooboon/react-native-go-oauth-subscription/AuthConnect/android/app/.cxx/Debug/b1j453f4/arm64-v8a \
+  appmodules
